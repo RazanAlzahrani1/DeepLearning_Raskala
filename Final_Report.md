@@ -15,7 +15,6 @@ The used dataset comes from GitHub, has six classes: glass, paper, cardboard, pl
 metal, and trash. Where the original dataset consists of 2527 images, in this project.
 
 ### Tools :
-
 Here is the tools that will be initially uses in this project:
 - Pandas
 - Numpy
@@ -25,7 +24,6 @@ Here is the tools that will be initially uses in this project:
 - Google Colab
 
 ### Hardware :
-
 Here is the hardware that will be initially uses in this project:
 - Raspberry Pi 4
 - Camera V2
