@@ -33,6 +33,7 @@ Here is the hardware that will be initially uses in this project:
 ### Recourses :
 
 <a href="https://github.com/MostefaBen/Trash-classification">Data</a>
+
 <a href="https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478">Code</a>
 
 
