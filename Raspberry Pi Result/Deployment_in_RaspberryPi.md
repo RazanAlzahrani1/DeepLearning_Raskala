@@ -14,4 +14,4 @@ the production of the object came out
 
 ### Recourse :
 Her resourse thet we used in deployment 
-<a href="https://github.com/microsoft/TrashClassifier/blob/master/rpi_trash_classifier.py">Data</a>
+<a href="https://github.com/microsoft/TrashClassifier/blob/master/rpi_trash_classifier.py">Code</a>
