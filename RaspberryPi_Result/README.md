@@ -37,4 +37,4 @@ https://user-images.githubusercontent.com/93180429/150951286-85bbd66b-89cd-4929-
 
 ### Recourse :
 Her resourse thet we used in deployment 
-<a href="https://github.com/microsoft/TrashClassifier/blob/master/rpi_trash_classifier.py">Data</a>
+<a href="https://github.com/microsoft/TrashClassifier/blob/master/rpi_trash_classifier.py">Code</a>
